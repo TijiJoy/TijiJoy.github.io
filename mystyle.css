@@ -1,0 +1,73 @@
+.bgimg{
+	  background-image: url("bg1.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 660px;
+}
+   
+.navbar-brand {
+   
+   font-family: 'Lobster';
+
+  
+}
+.headerset{
+	padding-top: 45px;
+	box-sizing: border-box;
+
+}
+.headerset h2{
+	font-size: 22px;
+	 font-family: 'Nosifer';
+
+
+}
+.headerset h1{
+	font-size: 52px;
+	 font-family: 'Kavoon';
+
+}
+.imgsetting{
+
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+
+}
+.fa-android
+{
+	margin-top: 20px;
+}
+.fa-puzzle-piece
+{
+	margin-top: 20px;
+}
+.fa-connectdevelop
+{
+	margin-top: 20px;
+}
+.rowsetting p{
+	padding: 10px;
+	color:#660033;
+}
+.card
+{ 
+	height: 450px;
+    width: 100%;
+
+}
+.card img {
+    height: 250px;
+    width: 100%;
+}
+.About h5{
+	font-family: 'Lobster'
+}
+.footer{
+	height: 50px;
+
+}
+.footer h6{
+	line-height: 50px;
+}
